@@ -13,8 +13,7 @@ This is a personal portfolio website for **Joash James Paul**. It provides infor
 The project contains the following files:
 - `index.html` - The main webpage.
 - `profile.jpg` - Profile image displayed in the header.
-- `about-me.jpg`, `work.jpg`, `contact.jpg` - Additional images for content sections.
-- `styles.css` (if separated) - Styles for improving design.
+- `contactme.jpeg`, `cool.jpeg`, `idk.jpeg` - Additional images for content sections.
 
 ## How to Use
 1. Clone the repository:
@@ -29,12 +28,11 @@ The project contains the following files:
 ## Technologies Used
 - **HTML**: Structure of the website.
 - **CSS**: Styling and responsive layout.
-- **JavaScript**: Future enhancements (if needed).
 
 ## Contact
 For more information, feel free to connect:
 - **LinkedIn**: [Joash James Paul](https://www.linkedin.com/in/joash-james-paul-813023259/)
-- **Email**: your.email@example.com
+- **Email**: 2670867@students.wits
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
