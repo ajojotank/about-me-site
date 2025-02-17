@@ -13,12 +13,12 @@ This is a personal portfolio website for **Joash James Paul**. It provides infor
 The project contains the following files:
 - `index.html` - The main webpage.
 - `profile.jpg` - Profile image displayed in the header.
-- `contactme.jpeg`, `image.jpeg`, `idk.jpeg` - Additional images for content sections.
+- `contactme.jpeg`, `cool.jpeg`, `idk.jpeg` - Additional images for content sections.
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/about-me-website.git
+   git clone https://github.com/ajojotank/about-me-site.git
    ```
 2. Open `index.html` in a web browser.
 
@@ -32,7 +32,7 @@ The project contains the following files:
 ## Contact
 For more information, feel free to connect:
 - **LinkedIn**: [Joash James Paul](https://www.linkedin.com/in/joash-james-paul-813023259/)
-- **Email**: 2670867@students.wits.ac.za
+- **Email**: 2670867@students.wits
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
